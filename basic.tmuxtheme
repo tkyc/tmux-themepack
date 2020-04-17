@@ -13,9 +13,9 @@ set -goq @themepack-window-status-current-format "#I:#W#F"
 set -goq @themepack-window-status-format "#I:#W#F"
 
 # Customizable prefixes and suffixes for @themepack-* format options
-set -goq @themepack-status-left-area-left-prefix ""
+set -goq @themepack-status-left-area-left-prefix "S"
 set -goq @themepack-status-left-area-left-suffix ""
-set -goq @themepack-status-left-area-middle-prefix ""
+set -goq @themepack-status-left-area-middle-prefix "P"
 set -goq @themepack-status-left-area-middle-suffix ""
 set -goq @themepack-status-left-area-right-prefix ""
 set -goq @themepack-status-left-area-right-suffix ""
