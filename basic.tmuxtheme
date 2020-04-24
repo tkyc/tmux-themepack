@@ -52,9 +52,9 @@ set -goq  @theme-message-fg default
 set -goq  @theme-mode-bg red
 set -goq  @theme-mode-fg default
 set -goq  @theme-pane-active-border-bg default
-set -goq  @theme-pane-active-border-fg green
+set -goq  @theme-pane-active-border-fg cyan
 set -goq  @theme-pane-border-bg default
-set -goq  @theme-pane-border-fg default
+set -goq  @theme-pane-border-fg cyan
 set -goq  @theme-status-bg black
 set -goq  @theme-status-fg cyan
 set -goq  @theme-status-interval 1
